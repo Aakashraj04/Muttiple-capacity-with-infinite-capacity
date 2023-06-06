@@ -18,10 +18,14 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+![image](https://github.com/Aakashraj04/Muttiple-capacity-with-infinite-capacity/assets/121117266/f29a67d0-06ee-4686-a0d2-b9eb038081c1)
 
 
 ## Program
 ```python
+#Developed By: Aakashraj M
+#Register Number: 212222100002
+
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
